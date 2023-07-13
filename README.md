@@ -35,6 +35,7 @@
 
 Обе вертушки доступны по ssh пдключению, но при пинге первая - ок, далее зависает не зависимо какую прописать первой.
 Не смог разобраться почему.
+
 <a href="https://ibb.co/jgkvz02"><img src="https://i.ibb.co/jgkvz02/7-2-5.png" alt="7-2-5" border="0"></a>
 <a href="https://ibb.co/gd6tmtD"><img src="https://i.ibb.co/gd6tmtD/7-2-5-1.png" alt="7-2-5-1" border="0"></a>
 <a href="https://ibb.co/Vp0Pxmb"><img src="https://i.ibb.co/Vp0Pxmb/7-2-6.png" alt="7-2-6" border="0"></a>
